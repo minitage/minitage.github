@@ -1,0 +1,16 @@
+.*pyc
+minitage.core.egg-info/*
+dist/*
+build\/
+
+
+eggs
+bin/buildout
+bin/testrunner
+.installed.cfg
+lib
+bin/activate
+bin/easy.*
+bin/python
+include
+bin/ipython
