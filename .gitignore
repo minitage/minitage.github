@@ -1,4 +1,8 @@
 *pyc
+src.mrd
+api.cfg
+.mr.developer.cfg
+envfile
 *egg-info
 dist
 eggs/
