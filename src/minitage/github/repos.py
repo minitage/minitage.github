@@ -46,7 +46,7 @@ def github_req(user, token, fmt='json', suburl=None, method='get'):
         ret = demjson.decode(ret)
     return ret
 
-organizations = ['minitage', 'minitage-dependencies', 'minitage', 'minitage-eggs']
+organizations = ['minitage-dependencies', 'minitage', 'minitage-eggs']
 def register(user=None,key=None):
     if not user:
         raise e('No user given') 
