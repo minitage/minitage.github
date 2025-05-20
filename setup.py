@@ -1,4 +1,4 @@
-# Copyright (C) 2009, Mathieu PASQUET <kiorky@cryptelium.net>
+# Copyright (C) 2009, Makina Corpus <freesoftware@makina-corpus.com>
 # All rights reserved.
 #
 # Redistribution and use in source and binary forms, with or without
@@ -61,8 +61,8 @@ setup(
         'Topic :: Software Development :: Libraries :: Python Modules',
     ],
     #keywords = 'development buildout',
-    author = 'Mathieu Le Marec - Pasquet',
-    author_email = 'kiorky@cryptelium.net',
+    author = 'Makina Corpus',
+    author_email = 'freesoftware@makina-corpus.com',
     url = 'http://cheeseshop.python.org/pypi/%s' % name,
     license = 'BSD',
     namespace_packages = ['minitage', name],
